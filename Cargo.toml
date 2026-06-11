@@ -2,7 +2,7 @@
 repository = "https://github.com/SuperInstance/agent-voice-leading"
 name = "agent-voice-leading"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 description = "agent-voice-leading"
 license = "MIT"
 
